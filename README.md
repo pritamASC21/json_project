@@ -1,14 +1,13 @@
 # json_project
 
 ## Instructions
-1. Go to https://randomuser.me/api
+1. Go to https://randomuser.me/api/?results=5
 
-   - The URL would look something like “https://randomuser.me/api/?results=5”
    - We put the number of users we want after the "=" in the URL
 
 2. Make a request for anywhere between 10 and 30 users
 
-3. Copy ALL of the JSON (`Ctrl + A` then `Ctrl + C`) and paste it into the “data.js” file storing it into a variable called `profiles`
+3. Copy ALL of the JSON (`Ctrl + A` then `Ctrl + C`) and paste it into the “database.js” file storing it into a variable called `profiles`
 
 4. Using everything you know about creating and designing websites, the DOM, events, and objects, you will create a single web page that displays the JSON data in any way you see fit
 

@@ -4,7 +4,7 @@
 1. Go to https://randomuser.me/api
 
    - The URL would look something like “https://randomuser.me/api/?results=5”
-   - We put the number of users we want afte the "=" in the URL
+   - We put the number of users we want after the "=" in the URL
 
 2. Make a request for anywhere between 10 and 30 users
 
